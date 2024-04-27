@@ -7,10 +7,10 @@ Given a sorted list of lengths of sections for a rocket build, and the length of
 type [input file] | python RocketBacktracking.py
 ## Sample Output:
 ### - sample1.txt:
-1 of length 1\n
-0 of length 2
-0 of length 5
-2 of length 7
+1 of length 1  
+0 of length 2  
+0 of length 5  
+2 of length 7  
 3 rocket sections minimu
 ### - sample2.txt:
 1 of length 1
