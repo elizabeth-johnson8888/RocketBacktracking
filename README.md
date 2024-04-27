@@ -7,3 +7,32 @@ Given a sorted list of lengths of sections for a rocket build, and the length of
 type [input file] | python RocketBacktracking.py
 ## Sample Output:
 ### - sample1.txt:
+"1 of length 1
+0 of length 2
+0 of length 5
+2 of length 7
+3 rocket sections minimu"
+### - sample2.txt:
+"1 of length 1
+0 of length 2
+0 of length 3
+0 of length 5
+0 of length 7
+1 of length 14
+2 rocket sections minimum"
+### - sample3.txt
+"8 of length 1
+1 of length 9
+9 rocket sections minimum"
+### - sample4.txt
+"0 of length 1
+2 of length 9
+0 of length 10
+2 rocket sections minimum"
+### - sample5.txt
+"0 of length 1
+2 of length 9
+0 of length 10
+2 of length 90
+0 of length 100
+4 rocket sections minimum"
